@@ -1,4 +1,4 @@
-# at_task1
+# Retro first person shooter inspired game, Windows x64, C++, Vulkan
 
 This repository contains the game source code and Visual Studio solution.
 
