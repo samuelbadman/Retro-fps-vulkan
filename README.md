@@ -3,7 +3,7 @@
 This repository contains the game source code and Visual Studio solution.
 
 Build instructions:
-- From the repository root directory run 'at_task1/Shaders/CompileShaders.bat'.
+- From the repository root directory run `at_task1/Shaders/CompileShaders.bat`.
 - Open at_task1.sln.
 - Select release configuration and build the project.
 
