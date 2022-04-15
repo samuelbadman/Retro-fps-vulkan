@@ -1,7 +1,7 @@
 # Retro first person shooter inspired game, Windows x64, C++, Vulkan
 
 [![retro fps vulkan demo](http://img.youtube.com/vi/a-uPv0uRfuM/0.jpg)](http://www.youtube.com/watch?v=a-uPv0uRfuM)  
-*Click to watch on YouTube*
+*Click on image to watch on YouTube*
 
 This repository contains the game source code and Visual Studio solution.
 
