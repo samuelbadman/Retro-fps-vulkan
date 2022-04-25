@@ -1,6 +1,6 @@
 # Retro first person shooter inspired game, Windows x64, C++, Vulkan
 
-https://user-images.githubusercontent.com/72559002/164996161-548e3c33-1776-4727-b871-d4d95728900e.mp4
+[Video](https://youtu.be/a-uPv0uRfuM)
 
 This repository contains the game source code and Visual Studio solution.
 
